@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5829312-9d19-4e6c-831e-5ef0bd3f1c3a" name="Default Changelist" comment="" />
+    <list default="true" id="c5829312-9d19-4e6c-831e-5ef0bd3f1c3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workshop 2/com/company/Tax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workshop 2/com/company/Tax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tax.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -27,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -77,22 +86,26 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="395" y="111" width="800" height="672" key="#Inspections/0.0.1600.900@0.0.1600.900" timestamp="1580256028622" />
-    <state width="1556" height="342" key="GridCell.Tab.0.bottom" timestamp="1580257469298">
+    <state width="1556" height="342" key="GridCell.Tab.0.bottom" timestamp="1580518827795">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="342" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1580257469298" />
-    <state width="1556" height="342" key="GridCell.Tab.0.center" timestamp="1580257469296">
+    <state width="1556" height="342" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1580518827795" />
+    <state width="1556" height="342" key="GridCell.Tab.0.center" timestamp="1580518827794">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="342" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1580257469296" />
-    <state width="1556" height="342" key="GridCell.Tab.0.left" timestamp="1580257469294">
+    <state width="1556" height="342" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1580518827794" />
+    <state width="1556" height="342" key="GridCell.Tab.0.left" timestamp="1580518827794">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="342" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1580257469294" />
-    <state width="1556" height="342" key="GridCell.Tab.0.right" timestamp="1580257469297">
+    <state width="1556" height="342" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1580518827794" />
+    <state width="1556" height="342" key="GridCell.Tab.0.right" timestamp="1580518827795">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="342" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1580257469297" />
+    <state width="1556" height="342" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1580518827795" />
+    <state x="0" y="27" width="1590" height="841" key="new project wizard" timestamp="1580647866247">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="27" width="1590" height="841" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1580647866247" />
     <state x="464" y="203" width="672" height="677" key="run.anything.popup" timestamp="1580041553450">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
